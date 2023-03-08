@@ -1,0 +1,1 @@
+# Azure PowerShell Function template
